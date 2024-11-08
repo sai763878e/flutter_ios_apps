@@ -1,0 +1,1 @@
+ C:\\Users\\thati\\AndroidStudioProjects\\Flutter\\Hr\ Solutions\\hr_solutions\\.dart_tool\\flutter_build\\49f6f148a30a42c80ae0e0fc3481748a\\native_assets.yaml: 
